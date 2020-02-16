@@ -33,7 +33,10 @@ Principal Software Benefits:
       - Automated communication.
 
 
-    
+## Requirements
+
+The Android device requires at least API 21 (Android 5.0).
+
     
 
 
