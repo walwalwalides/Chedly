@@ -1,5 +1,5 @@
 # ChedlyQuiz
-Learn Birdsong   | ANDROID & DESKTOP
+Management Bird vocalization  | ANDROID & DESKTOP
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
@@ -14,8 +14,8 @@ Learn Birdsong   | ANDROID & DESKTOP
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[MChedlyQuiz_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Meeting4_Desktop)| Software Solution for Leraning BirdSong.
-|[ChedlyQuiz_Mobile](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Meeting4_Mobile)| Android Data Transfer Apps to Switch Packages Easily.
+|[ChedlyQuiz_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/ChedlyQuiz_Desktop)| Software Solution for Leraning BirdSong.
+|[ChedlyQuiz_Mobile](https://github.com/walwalwalides/ChedlyQuiz/tree/master/ChedlyQuiz_Mobile)| Android Data Transfer Apps to Switch Packages Easily.
 | README.md | The Readme for this Project|
 
 ------

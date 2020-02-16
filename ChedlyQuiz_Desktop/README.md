@@ -1,17 +1,17 @@
-# Meeting4_Desktop
+# ChedlyQuiz_Desktop
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
 ![](View/Img/MainView.png)
 
-`Meeting4` is a complete Software Solution for Management appointments.
+`ChedlyQuiz` is a complete Software Solution for Management Bird vocalization.
 
 
 **Authors:**  *WalWalWalides*
 ------
 
-The Software offers a new Way for better Management team appointments. That means granting increased Productivity - That promises more and better Work in less Time.
+The Software offers a new Way for better Management Management Bird vocalization. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`Meeting4` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different DAW Software.
+`ChedlyQuiz` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different ways.
 
 
 
@@ -37,7 +37,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|Meeting4.exe|Management team appointments|
+|ChedlyQuiz.exe|Management Bird vocalization|
 
 
 ------
@@ -47,7 +47,7 @@ Principal Software Benefits:
 ### Install application 
 
 
-Download Link For Meeting4 : https://github.com/walwalwalides/Meeting4/releases/download/V1.0.0/Meeting4__Setup.exe
+Download Link For ChedlyQuiz : https://github.com/walwalwalides/ChedlyQuiz/releases/download/V1.0.0/ChedlyQuiz__Setup.exe
 
 ------
 
