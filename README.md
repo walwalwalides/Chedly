@@ -5,7 +5,7 @@ Management Bird vocalization  | ANDROID & DESKTOP
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 
-![](ChedlyQuiz.png)
+![](ChedlyQuiz_.png)
 **Authors:**  *WalWalWalides*
 ------
 
