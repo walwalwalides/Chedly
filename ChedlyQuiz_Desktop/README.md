@@ -9,7 +9,7 @@
 **Authors:**  *WalWalWalides*
 ------
 
-The Software offers a new Way for better Management Management Bird vocalization. That means granting increased Productivity - That promises more and better Work in less Time.
+The Software offers a new Way for better Management Bird vocalization. That means granting increased Productivity - That promises more and better Work in less Time.
 
 `ChedlyQuiz` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different ways.
 
