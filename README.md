@@ -14,7 +14,7 @@ Learn Birdsong   | ANDROID & DESKTOP
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[MChedlyQuiz_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Meeting4_Desktop)| Software Solution for Leraning BirdSong.
+|[ChedlyQuiz_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Meeting4_Desktop)| Software Solution for Leraning BirdSong.
 |[ChedlyQuiz_Mobile](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Meeting4_Mobile)| Android Data Transfer Apps to Switch Packages Easily.
 | README.md | The Readme for this Project|
 
