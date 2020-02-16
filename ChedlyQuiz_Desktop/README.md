@@ -52,7 +52,7 @@ Download Link For ChedlyQuiz : https://github.com/walwalwalides/ChedlyQuiz/relea
 ------
 ### Demo
 How to read sounds: 
-[Youtub Video]|https://www.youtube.com/watch?v=K8vEqX5kNs8
+[Youtub Video] : |https://www.youtube.com/watch?v=K8vEqX5kNs8
 # If You Want To Donate!
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y79F36A9BGLHS&source=url)
