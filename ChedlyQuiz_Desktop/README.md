@@ -50,8 +50,9 @@ Principal Software Benefits:
 Download Link For ChedlyQuiz : https://github.com/walwalwalides/ChedlyQuiz/releases/download/V1.0.0/ChedlyQuiz__Setup.exe
 
 ------
-
 ### Demo
+How to read sounds: 
+https://youtu.be/K8vEqX5kNs8
 
 
 # If You Want To Donate!
