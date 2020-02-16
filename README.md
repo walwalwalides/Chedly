@@ -1,5 +1,5 @@
 # ChedlyQuiz
-Management Bird vocalization  | ANDROID & DESKTOP
+Management Bird Vocalization  | ANDROID & DESKTOP
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
