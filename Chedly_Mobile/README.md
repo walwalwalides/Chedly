@@ -1,7 +1,7 @@
 # ChedlyQuiz_Mobile (ANDROID)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
-![](ChedlyQuiz_Mobile.png)
+![](Chedly_Mobile.png)
 
 `ChedlyQuiz_Mobile` is a Android App for Management Bird vocalization.
 
