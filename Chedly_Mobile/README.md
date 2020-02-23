@@ -53,7 +53,7 @@ The Android device requires at least API 21 (Android 5.0).
 
 ### Install App ( ANDROID ) 
 
-Link : https://github.com/walwalwalides/Chedly/releases/download/V1.0.1/Chedly.apk
+Link : https://github.com/walwalwalides/Chedly/releases/download/V1.0.0/Chedly.apk
 
 
 # If You Want To Donate!

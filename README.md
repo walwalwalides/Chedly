@@ -5,7 +5,7 @@ Management Animal Vocalization  | ANDROID & DESKTOP
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 
-![](ChedlyQuiz.png)
+![](Chedly.png)
 **Authors:**  *WalWalWalides*
 ------
 
