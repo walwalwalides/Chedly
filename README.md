@@ -1,5 +1,5 @@
-# ChedlyQuiz
-Management Bird Vocalization  | ANDROID & DESKTOP
+# Chedly
+Management Animal Vocalization  | ANDROID & DESKTOP
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
@@ -14,8 +14,8 @@ Management Bird Vocalization  | ANDROID & DESKTOP
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[ChedlyQuiz_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/ChedlyQuiz_Desktop)| Software Solution for Leraning BirdSong.
-|[ChedlyQuiz_Mobile](https://github.com/walwalwalides/ChedlyQuiz/tree/master/ChedlyQuiz_Mobile)| Android Data Transfer Apps to Switch Packages Easily.
+|[Chedly_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Chedly_Desktop)| Software Solution for Leraning AnimalSong.
+|[Chedly_Mobile](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Chedly_Mobile)| Android Data Transfer Apps to Switch Packages Easily.
 | README.md | The Readme for this Project|
 
 ------
