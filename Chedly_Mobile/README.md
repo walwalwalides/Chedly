@@ -3,7 +3,7 @@
 
 ![](Chedly_Mobile.png)
 
-`ChedlyQuiz_Mobile` is a Android App for Management Bird vocalization.
+`ChedlyQuiz_Mobile` is a Android App for Management Animal vocalization.
 
 
 **Authors:**  *WalWalWalides*
