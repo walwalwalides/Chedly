@@ -14,8 +14,8 @@ Management Animal Vocalization  | ANDROID & DESKTOP
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
-|[Chedly_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Chedly_Desktop)| Software Solution for Leraning AnimalSong.
-|[Chedly_Mobile](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Chedly_Mobile)| Android Data Transfer Apps to Switch Packages Easily.
+|[Chedly_Desktop](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Chedly_Desktop)| Software Solution for Learning Animal voice.
+|[Chedly_Mobile](https://github.com/walwalwalides/ChedlyQuiz/tree/master/Chedly_Mobile)| Android App for Management Animal vocalization.
 | README.md | The Readme for this Project|
 
 ------
