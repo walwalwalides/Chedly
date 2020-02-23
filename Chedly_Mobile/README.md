@@ -11,7 +11,7 @@
 
 The Android App offers a new Way for better Management Bird vocalization. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`ChedlyQuiz_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different Software.
+`Chedly_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different Software.
 
 
 
@@ -44,7 +44,7 @@ The Android device requires at least API 21 (Android 5.0).
 
 | Module | Name | 
 | --- | --- |
-|ChedlyQuiz.apk|Management Bird vocalization(Android)|
+|Chedly.apk|Management Animal vocalization(Android)|
 
 
 ------
@@ -53,7 +53,7 @@ The Android device requires at least API 21 (Android 5.0).
 
 ### Install App ( ANDROID ) 
 
-Link : https://github.com/walwalwalides/ChedlyQuiz/releases/download/V1.0.1/ChedlyQuiz.apk
+Link : https://github.com/walwalwalides/Chedly/releases/download/V1.0.1/Chedly.apk
 
 
 # If You Want To Donate!
