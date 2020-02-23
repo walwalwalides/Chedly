@@ -37,7 +37,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|ChedlyQuiz.exe|Management Animal vocalization|
+|Chedly.exe|Management Animal vocalization|
 
 
 ------
