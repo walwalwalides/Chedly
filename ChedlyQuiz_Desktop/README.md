@@ -1,17 +1,17 @@
-# ChedlyQuiz_Desktop
+# Chedly_Desktop
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
 
 ![](View/Img/MainView.png)
 
-`ChedlyQuiz` is a complete Software Solution for Management Bird vocalization.
+`Chedly` is a complete Software Solution for Management Animal vocalization.
 
 
 **Authors:**  *WalWalWalides*
 ------
 
-The Software offers a new Way for better Management Bird vocalization. That means granting increased Productivity - That promises more and better Work in less Time.
+The Software offers a new Way for better Management Animal vocalization. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`ChedlyQuiz` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different ways.
+`Chedly` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different ways.
 
 
 
@@ -37,7 +37,7 @@ Principal Software Benefits:
 
 | Module | Name | 
 | --- | --- |
-|ChedlyQuiz.exe|Management Bird vocalization|
+|ChedlyQuiz.exe|Management Animal vocalization|
 
 
 ------
@@ -47,7 +47,7 @@ Principal Software Benefits:
 ### Install application 
 
 
-Download Link For ChedlyQuiz : https://github.com/walwalwalides/ChedlyQuiz/releases/download/V1.0.0/ChedlyQuiz__Setup.exe
+Download Link For Chedly : https://github.com/walwalwalides/Chedly/releases/download/V1.0.0/Chedly__Setup.exe
 
 ------
 ### Demo
