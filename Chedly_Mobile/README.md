@@ -20,7 +20,7 @@ The Android App offers a new Way for better Management Animal vocalization.
   Chedly.apk
 
 - Size
-    129.8 MB
+    16.1 MB
 
 - Category
     Entertainment 
