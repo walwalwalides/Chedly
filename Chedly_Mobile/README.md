@@ -11,11 +11,25 @@
 
 
 **Authors:**  *WalWalWalides*
-------
 
-The Android App offers a new Way for better Management Bird vocalization. That means granting increased Productivity - That promises more and better Work in less Time.
 
-`Chedly_Mobile` simplifies service Storing and Organization, enables optimal Staffing,and you can use with different Software.
+The Android App offers a new Way for better Management Animal vocalization.
+`Chedly` is an excellent app for animal lovers,and is a free app that stores all your picutures and sounds in one place.
+
+Name  
+  Chedly.apk
+Size
+    129.8 MB
+Category
+    Entertainment 
+Compatibility
+    Requires Up Android 8.0 . 
+Languages
+    English
+Copyright
+    © walwalwalwalides
+Price
+    Free 
 
 
 
@@ -26,20 +40,13 @@ Principal Software Benefits:
 
       - Flexible and Powerful User Interface.
 
-      - Efficient Packages and resource Planning,storing.
-
-      - Strong resource Management and capacity Planning.      
+      - Efficient Packages and resource Planning,storing.     
       
-      - Backup and Recovery.
-      
-      - Less Network Traffic.
-      
-      - Automated communication.
-
+      - Add new Animals.
 
 ## Requirements
 
-The Android device requires at least API 21 (Android 5.0).
+The Android device requires at least API 26 (Android 8.0).
 
     
 
