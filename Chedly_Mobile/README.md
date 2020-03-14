@@ -44,11 +44,11 @@ The Android App offers a new Way for better Management Animal vocalization.
 
 Principal Software Benefits:
 
-      - Flexible and Powerful User Interface.
-
-      - Efficient Packages and resource Planning,storing.     
-      
       - Add new Animals.
+
+      - Store all pictures and sounds in one place.     
+      
+      - Create a thumbnail.
 
 ## Requirements
 
