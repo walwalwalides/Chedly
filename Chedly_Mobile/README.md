@@ -1,10 +1,10 @@
-# ChedlyQuiz_Mobile (ANDROID)
+# Chedly_Mobile (ANDROID)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
 
 ![](View/Img/MainView.png)
 
-![](Chedly_Mobile.png)
+![](View/Img/Chedly_Mobile.png)
 
 `ChedlyQuiz_Mobile` is a Android App for Management Animal vocalization.
 
@@ -58,6 +58,9 @@ The Android device requires at least API 21 (Android 5.0).
 
 Link : https://github.com/walwalwalides/Chedly/releases/download/V1.0.0/Chedly.apk
 
+### Demo
+How to read sounds 
+[Youtub Video] : https://www.youtube.com/watch?v=K8vEqX5kNs8
 
 # If You Want To Donate!
 
