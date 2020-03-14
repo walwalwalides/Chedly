@@ -1,12 +1,13 @@
-# Chedly_Mobile (ANDROID)
+# Chedly (ANDROID)
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
-
+# Menu View
 ![](View/Img/MainView.png)
-
+# Collection View
 ![](View/Img/Chedly_Mobile.png)
 
-`ChedlyQuiz_Mobile` is a Android App for Management Animal vocalization.
+
+`Chedly` is a Android App for Management Animal vocalization.
 
 
 **Authors:**  *WalWalWalides*
