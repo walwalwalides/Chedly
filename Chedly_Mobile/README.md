@@ -14,21 +14,27 @@
 
 
 The Android App offers a new Way for better Management Animal vocalization.
-`Chedly` is an excellent app for animal lovers,and is a free app that stores all your picutures and sounds in one place.
+`Chedly` is an excellent app for Animal Lovers that stores all your picutures and sounds in one place.
 
-Name  
+- Name  
   Chedly.apk
-Size
+
+- Size
     129.8 MB
-Category
+
+- Category
     Entertainment 
-Compatibility
+    
+- Compatibility
     Requires Up Android 8.0 . 
-Languages
+
+- Languages
     English
-Copyright
+
+- Copyright
     © walwalwalwalides
-Price
+
+- Price
     Free 
 
 
