@@ -3,6 +3,12 @@ Management Animal Vocalization  | ANDROID
 
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-ANDROID-BLUE.svg)
 
+![GitHub](https://img.shields.io/github/license/walwalwalides/Chedly)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/walwalwalides/Chedly)
+
+[![GitHub stars](https://img.shields.io/github/stars/walwalwalides/Chedly)](https://github.com/walwalwalides/Chedly/stargazers)
+
+
 
 ![](Chedly.png)
 **Authors:**  *WalWalWalides*
